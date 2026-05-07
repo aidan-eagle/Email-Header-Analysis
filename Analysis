@@ -1,23 +1,38 @@
 What is the Message-ID of the email? 
+<1679960906934.12813@inaem.cultura.gob.es>
 
 What is the Return-Path of the email? 
+victor.cruz@inaem.cultura.gob.es
 
 What email address was this email sent to? 
+in@ure.org
 
 What is the X-Sender IP address? 
+212.128.117.86
 
 What is the X-Sender-Reputation of the email? 
+5.2
 
 What does the X-Sender-Reputation mean? 
+the X-Sender-Reputation score is used to estimate how trustworthy the sender’s IP address is, based off the score of 5.2
+it suggests that the sender the sender has a somewhat suspicious or low reputation and may have been associated with spam or malicious activity.
 
 What is the name and IP address of the first server to process the email? 
+the first server name is Exchange2.inaem.mcu.es and the IP address is 10.6.170.237
 
 What is the subject of the email? 
+The subject of the email is "READ !!!"
 
 What email address does the sender want the receiver to respond to? 
+The email asks the receiver to contact: cm21029@hotmail.com
 
 what is a possible reason for the sender choosing this email address?
+a possible reason is to hide their real identity / avoid detection. a free email provider such as hotmail is commonly used for
+phishing since its easy to make anonymous accounts.
 
 Can you find the address of the person who received the email? Why or why not? 
+No, the physical address of the recipient cannot be found. This is because Email headers typically contain routing and technical information, 
+but not personal physical addresses unless explicitly included in the message content.
 
 Who is the sender of the email? 
+Cruz García, Víctor <victor.cruz@inaem.cultura.gob.es>
